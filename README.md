@@ -39,10 +39,6 @@ The static assets will be generated in the `out` directory.
 
 This project is configured to deploy automatically to GitHub Pages using GitHub Actions.
 
-1. Push the code to a GitHub repository.
-2. Go to **Settings > Pages** in your repository.
-3. Under **Build and deployment**, select **GitHub Actions** as the source.
-4. The workflow defined in `.github/workflows/deploy.yml` will automatically build and deploy the site on every push to the `main` branch.
 
 ## Features
 
